@@ -1,1 +1,1 @@
-# q_dev_resources
+# Amazon Q
